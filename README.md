@@ -1,2 +1,2 @@
 # K-nearest-Neighbors
-K-nearest Neighbors algorithm implemented from sratch
+K-nearest Neighbors algorithm implemented from scratch without using predefined libraries
